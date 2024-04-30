@@ -1,0 +1,11 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Work+Sans:wght@100;300;400;600;800&display=swap');
+/*SECCION API*/
+.api {
+    color: white;
+
+    
+}
+    .api h2 {
+        font-size: 48px;
+        text-align: center;
+    }
